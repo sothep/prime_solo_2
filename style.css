@@ -1,0 +1,7 @@
+ul {
+	list-style-type:none;
+}
+li {
+	font: bold 14px/20px verdana, sans-serif;
+	color: blue;
+}
